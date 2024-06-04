@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\bin\Debug\net8.0\Repeticao-while.exe
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\bin\Debug\net8.0\Repeticao-while.deps.json
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\bin\Debug\net8.0\Repeticao-while.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\bin\Debug\net8.0\Repeticao-while.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\bin\Debug\net8.0\Repeticao-while.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\obj\Debug\net8.0\Repeticao-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\obj\Debug\net8.0\Repeticao-while.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\obj\Debug\net8.0\Repeticao-while.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\obj\Debug\net8.0\Repeticao-while.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\obj\Debug\net8.0\Repeticao-while.sourcelink.json
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\obj\Debug\net8.0\Repeticao-while.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\obj\Debug\net8.0\refint\Repeticao-while.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\obj\Debug\net8.0\Repeticao-while.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\obj\Debug\net8.0\Repeticao-while.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticao-while\obj\Debug\net8.0\ref\Repeticao-while.dll
