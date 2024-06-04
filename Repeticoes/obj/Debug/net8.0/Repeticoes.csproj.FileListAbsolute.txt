@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\bin\Debug\net8.0\Repeticoes.exe
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\bin\Debug\net8.0\Repeticoes.deps.json
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\bin\Debug\net8.0\Repeticoes.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\bin\Debug\net8.0\Repeticoes.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\bin\Debug\net8.0\Repeticoes.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\obj\Debug\net8.0\Repeticoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\obj\Debug\net8.0\Repeticoes.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\obj\Debug\net8.0\Repeticoes.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\obj\Debug\net8.0\Repeticoes.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\obj\Debug\net8.0\Repeticoes.sourcelink.json
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\obj\Debug\net8.0\Repeticoes.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\obj\Debug\net8.0\refint\Repeticoes.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\obj\Debug\net8.0\Repeticoes.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\obj\Debug\net8.0\Repeticoes.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Repeticoes\obj\Debug\net8.0\ref\Repeticoes.dll
