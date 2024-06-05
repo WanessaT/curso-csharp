@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\bin\Debug\net8.0\Value-Reference.exe
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\bin\Debug\net8.0\Value-Reference.deps.json
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\bin\Debug\net8.0\Value-Reference.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\bin\Debug\net8.0\Value-Reference.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\bin\Debug\net8.0\Value-Reference.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\obj\Debug\net8.0\Value-Reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\obj\Debug\net8.0\Value-Reference.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\obj\Debug\net8.0\Value-Reference.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\obj\Debug\net8.0\Value-Reference.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\obj\Debug\net8.0\Value-Reference.sourcelink.json
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\obj\Debug\net8.0\Value-Reference.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\obj\Debug\net8.0\refint\Value-Reference.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\obj\Debug\net8.0\Value-Reference.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\obj\Debug\net8.0\Value-Reference.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Value-Reference\obj\Debug\net8.0\ref\Value-Reference.dll
