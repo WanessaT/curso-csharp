@@ -21,7 +21,7 @@ namespace Calculadora
             Console.WriteLine("5 - Sair");
 
             Console.WriteLine("----------");
-            Console.WriteLine("Seleione uma opção:");
+            Console.WriteLine("Selecione uma opção:");
             short resultado = short.Parse(Console.ReadLine());
 
             switch(resultado)
