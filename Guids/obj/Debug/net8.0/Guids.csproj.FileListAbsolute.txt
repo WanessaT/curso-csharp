@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\bin\Debug\net8.0\Guids.exe
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\bin\Debug\net8.0\Guids.deps.json
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\bin\Debug\net8.0\Guids.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\bin\Debug\net8.0\Guids.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\bin\Debug\net8.0\Guids.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\obj\Debug\net8.0\Guids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\obj\Debug\net8.0\Guids.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\obj\Debug\net8.0\Guids.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\obj\Debug\net8.0\Guids.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\obj\Debug\net8.0\Guids.sourcelink.json
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\obj\Debug\net8.0\Guids.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\obj\Debug\net8.0\refint\Guids.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\obj\Debug\net8.0\Guids.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\obj\Debug\net8.0\Guids.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Guids\obj\Debug\net8.0\ref\Guids.dll
