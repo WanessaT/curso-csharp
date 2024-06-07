@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Indices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9718381d6fb235f76d80f2ba3491183f336b72bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d30e5ee1657f7cbd028d333933a3cce35ec72ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Indices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Indices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
