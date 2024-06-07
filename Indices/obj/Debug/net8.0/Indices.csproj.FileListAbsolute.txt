@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\bin\Debug\net8.0\Indices.exe
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\bin\Debug\net8.0\Indices.deps.json
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\bin\Debug\net8.0\Indices.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\bin\Debug\net8.0\Indices.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\bin\Debug\net8.0\Indices.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\obj\Debug\net8.0\Indices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\obj\Debug\net8.0\Indices.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\obj\Debug\net8.0\Indices.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\obj\Debug\net8.0\Indices.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\obj\Debug\net8.0\Indices.sourcelink.json
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\obj\Debug\net8.0\Indices.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\obj\Debug\net8.0\refint\Indices.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\obj\Debug\net8.0\Indices.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\obj\Debug\net8.0\Indices.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Indices\obj\Debug\net8.0\ref\Indices.dll
