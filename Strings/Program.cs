@@ -19,6 +19,10 @@ namespace Strings
 
             Console.WriteLine(texto.EndsWith("teste"));
             Console.WriteLine(texto.EndsWith("Teste"));
+
+            //Equals - Compara se o texto é completamente igual. Também é case sensitive.
+            Console.WriteLine(texto.Equals("Este texto é um teste"));
+            Console.WriteLine(texto.Equals("Esse texto é um teste."));
             
 
 
