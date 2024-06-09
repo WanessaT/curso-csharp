@@ -15,7 +15,6 @@ namespace Structs
           Console.WriteLine(mouse.Price);
         }
     }
-    
     struct Product
     {
         public Product(int id, string name, double price)
