@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\bin\Debug\net8.0\EditorHtml.exe
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\bin\Debug\net8.0\EditorHtml.deps.json
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\bin\Debug\net8.0\EditorHtml.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\bin\Debug\net8.0\EditorHtml.dll
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\bin\Debug\net8.0\EditorHtml.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\obj\Debug\net8.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\obj\Debug\net8.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\obj\Debug\net8.0\EditorHtml.sourcelink.json
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\obj\Debug\net8.0\EditorHtml.dll
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\obj\Debug\net8.0\refint\EditorHtml.dll
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\obj\Debug\net8.0\EditorHtml.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\obj\Debug\net8.0\EditorHtml.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documentos\c#\EditorHtml\obj\Debug\net8.0\ref\EditorHtml.dll
