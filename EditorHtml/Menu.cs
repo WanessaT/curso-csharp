@@ -8,7 +8,7 @@ namespace EditorHtml
         public static void Show()
         {
             Console.Clear();
-            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
 
             Tela();
@@ -68,7 +68,7 @@ namespace EditorHtml
         {
             switch(opcao)
             {
-                case 1: Console.WriteLine("Editor"); break;
+                case 1: Editor.Show(); break;
                 case 2: Console.WriteLine("Visualizar"); break;
                 case 0: {
                     Console.Clear();
