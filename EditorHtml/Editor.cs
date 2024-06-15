@@ -3,31 +3,33 @@ using System.Text;
 
 namespace EditorHtml
 {
-    public static class Editor
+    public class Editor
     {
         public static void Show()
         {
             Console.Clear();
-            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.Clear();
-            Console.WriteLine("MODO EDITOR - Para salvar pressione ENTER e em seguida ESC");
-            Console.WriteLine("-------------");
+            Console.WriteLine("MODO EDITOR");
+            Console.WriteLine("---------------------");
             Start();
         }
 
         public static void Start()
         {
-            var arquivo = new StringBuilder();
+            var file = new StringBuilder();
 
             do {
-                arquivo.Append(Console.ReadLine());
-                arquivo.AppendLine(Environment.NewLine);
+                file.Append(Console.ReadLine());
+                file.Append(Environment.NewLine);
 
-            }while (Console.ReadKey().Key != ConsoleKey.Escape);
+            }
+            while (Console.ReadKey().Key != ConsoleKey.Escape);
 
-            Console.WriteLine("---------------");
+            Console.WriteLine("-------------------");
             Console.WriteLine("DDeseja salvar o arquivo?");
+            Viewer.Show(file.ToString());
         }
     }
 }
