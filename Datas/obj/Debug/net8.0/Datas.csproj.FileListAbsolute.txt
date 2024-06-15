@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\bin\Debug\net8.0\Datas.exe
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\bin\Debug\net8.0\Datas.deps.json
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\bin\Debug\net8.0\Datas.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\bin\Debug\net8.0\Datas.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\bin\Debug\net8.0\Datas.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\obj\Debug\net8.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\obj\Debug\net8.0\Datas.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\obj\Debug\net8.0\Datas.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\obj\Debug\net8.0\Datas.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\obj\Debug\net8.0\Datas.sourcelink.json
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\obj\Debug\net8.0\Datas.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\obj\Debug\net8.0\refint\Datas.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\obj\Debug\net8.0\Datas.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\obj\Debug\net8.0\Datas.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Datas\obj\Debug\net8.0\ref\Datas.dll
