@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\bin\Debug\net8.0\Moedas.exe
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\bin\Debug\net8.0\Moedas.deps.json
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\bin\Debug\net8.0\Moedas.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\bin\Debug\net8.0\Moedas.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\bin\Debug\net8.0\Moedas.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\obj\Debug\net8.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\obj\Debug\net8.0\Moedas.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\obj\Debug\net8.0\Moedas.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\obj\Debug\net8.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\obj\Debug\net8.0\Moedas.sourcelink.json
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\obj\Debug\net8.0\Moedas.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\obj\Debug\net8.0\refint\Moedas.dll
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\obj\Debug\net8.0\Moedas.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\obj\Debug\net8.0\Moedas.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documentos\c#\Moedas\obj\Debug\net8.0\ref\Moedas.dll
