@@ -13,10 +13,15 @@ namespace Datas
             //Console.WriteLine(data);
             //Console.WriteLine(data.DayOfWeek); // mostra o dia da semana
             //Console.WriteLine(data.DayOfYear); // mostra o dia do ano
-
-            var formatada = String.Format("{0:dd/MM/yyyy}", data);
+            /*var formatada = String.Format("{0:dd/MM/yyyy}", data);
             Console.WriteLine(formatada);
+            Console.WriteLine(data.AddDays(4)); //adicionar datas*/
+            if(data.Date == DateTime.Now.Date) {
+                Console.WriteLine("É igual!");
+            }
 
+            Console.WriteLine(data);
+                
         }
     }
 }
