@@ -34,6 +34,14 @@ namespace Globalizacao
                 Console.WriteLine("---------------");
             }
 
+            Console.WriteLine(DateTime.DaysInMonth(2024, 7)); //Mostra quantos dias tem o mês de acordo com o ano escolhido
+
+            Console.WriteLine(IsWeekend(DateTime.Now.DayOfWeek));
+        }
+
+        static bool IsWeekend(DayOfWeek today)
+        {
+            return today == DayOfWeek.Saturday || today == DayOfWeek.Sunday;
         }
     }
 }
