@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\bin\Debug\net8.0\CultureInfo.exe
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\bin\Debug\net8.0\CultureInfo.deps.json
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\bin\Debug\net8.0\CultureInfo.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\bin\Debug\net8.0\CultureInfo.dll
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\bin\Debug\net8.0\CultureInfo.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\obj\Debug\net8.0\CultureInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\obj\Debug\net8.0\CultureInfo.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\obj\Debug\net8.0\CultureInfo.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\obj\Debug\net8.0\CultureInfo.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\obj\Debug\net8.0\CultureInfo.sourcelink.json
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\obj\Debug\net8.0\CultureInfo.dll
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\obj\Debug\net8.0\refint\CultureInfo.dll
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\obj\Debug\net8.0\CultureInfo.pdb
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\obj\Debug\net8.0\CultureInfo.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documentos\c#\CultureInfo\obj\Debug\net8.0\ref\CultureInfo.dll
