@@ -23,6 +23,10 @@ namespace DotnetLists
                 Console.WriteLine(ex.Message);
                 Console.WriteLine("Ops, algo deu errado!");
             }
+            finally
+            {
+                Console.WriteLine("Chegou ao fim");
+            }
             
             /*var meuArray = new int[5] {1, 2, 3, 4, 5}; //sempre colocar o new para criar o array
             var meuArray2 = meuArray; // dessa forma não cria novo array, apenas indica que o array2 é o mesmo do 1
